@@ -1,0 +1,23 @@
+#hero{
+    width: 90%;
+    margin : 30vh 30% ;
+    
+}
+
+.a1{
+    margin : 10px 0px;
+}
+
+input{
+    width: 30%;
+    border-radius: 5px;
+    padding : 5px;
+}
+
+button{
+    background-color: white;
+    border-radius: 5px;
+    width : 100px;
+    padding : 6px;
+    margin-top : 10px;
+}
